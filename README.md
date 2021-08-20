@@ -1,9 +1,7 @@
 ### Hi there, I'm Mahesh 👋 
 
 <img src="https://komarev.com/ghpvc/?username=maheshbabuathmakuri&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22maheshbabuathmakuri" />
-
 <br />
-
 ## I'm a Bachelor, Developer!!
 
 - 🔭 I am a passionate self-taught developer from India.
